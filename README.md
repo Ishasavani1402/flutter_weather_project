@@ -12,7 +12,7 @@
 
 -> this project show current weather for particulat city .. we can search any city here...
 
-#Screenshots
+# Screenshots
 ![splashscreen](https://github.com/user-attachments/assets/239b6d59-2c45-4a73-a678-372f75e8a047)
 
 ![entercity](https://github.com/user-attachments/assets/93f90de2-343e-4156-b3aa-d1b20e907dc7)
