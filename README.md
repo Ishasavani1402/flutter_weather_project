@@ -4,8 +4,8 @@
 
 # Tech stack:
 
-✔ Dart \b
-✔ Flutter \b
+✔ Dart <br>
+✔ Flutter <br>
 ✔ weather package from pub.dev(which use openweather API)
 
 # functonallity
