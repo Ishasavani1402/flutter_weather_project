@@ -67,7 +67,7 @@ class _WeatherdataState extends State<Weatherdata> {
                 Padding(
                   padding: const EdgeInsets.symmetric(
                     horizontal: 15,
-                    vertical: 15,
+                    // vertical: 15,
                   ),
                   child: TextField(
                     autofillHints: [AutofillHints.countryName],
@@ -81,7 +81,7 @@ class _WeatherdataState extends State<Weatherdata> {
                   child: Padding(
                     padding: const EdgeInsets.symmetric(
                       horizontal: 15,
-                      vertical: 5,
+                      // vertical: 5,
                     ),
                     child: ElevatedButton(
                       onPressed: getweatherdata,
@@ -102,7 +102,7 @@ class _WeatherdataState extends State<Weatherdata> {
                     ),
                   ),
                 ),
-          
+
                 if (weather != null) ...[
                   SizedBox(height: 15),
                   Container(
@@ -117,7 +117,7 @@ class _WeatherdataState extends State<Weatherdata> {
                         begin: Alignment.topLeft,
                         end: Alignment.bottomRight,
                       ),
-          
+
                       color: const Color.fromARGB(255, 134, 194, 243),
                       borderRadius: BorderRadius.circular(10),
                     ),
