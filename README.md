@@ -1,16 +1,20 @@
 # weather_project
 
-A new Flutter project.
+-> i create weather application in flutter. in this project show current weather according to respective city.
 
-## Getting Started
+# Tech stack:
 
-This project is a starting point for a Flutter application.
+✔ Dart
+✔ Flutter
+✔ weather package from pub.dev(which use openweather API)
 
-A few resources to get you started if this is your first Flutter project:
+#functonallity
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+-> this project show current weather for particulat city .. we can search any city here...
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#Screenshots
+![splashscreen](https://github.com/user-attachments/assets/239b6d59-2c45-4a73-a678-372f75e8a047)
+
+![entercity](https://github.com/user-attachments/assets/93f90de2-343e-4156-b3aa-d1b20e907dc7)
+
+![getweatherdata](https://github.com/user-attachments/assets/52364ec1-0a9d-4aa3-b573-1591ad087694)
