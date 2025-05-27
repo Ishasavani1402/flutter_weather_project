@@ -8,7 +8,7 @@
 ✔ Flutter
 ✔ weather package from pub.dev(which use openweather API)
 
-#functonallity
+# functonallity
 
 -> this project show current weather for particulat city .. we can search any city here...
 
