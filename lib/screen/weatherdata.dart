@@ -72,7 +72,15 @@ class _WeatherdataState extends State<Weatherdata> {
                   child: TextField(
                     autofillHints: [AutofillHints.countryName],
                     controller: citycontroller,
-                    decoration: InputDecoration(border: InputBorder.none),
+                    decoration: InputDecoration(
+                      border: InputBorder.none,
+                      hintText: "Enter city",
+                      hintStyle: TextStyle(
+                        fontSize: 15,
+                        fontFamily: "regular",
+                        color: const Color.fromARGB(255, 100, 100, 100),
+                      ),
+                    ),
                   ),
                 ),
                 SizedBox(height: 5),
